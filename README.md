@@ -1,4 +1,4 @@
-# 🛵 GLOVO CALCULATOR
+# 🛵 Glovo Calculator
 
 Script Python per calcolare le entrate nette come rider Glovo, tenendo conto della **ritenuta d'acconto del 20%**, delle **mance** e dei **prelievi in contanti**.
 
